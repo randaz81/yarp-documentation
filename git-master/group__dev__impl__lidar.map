@@ -1,0 +1,7 @@
+<map id="Lidar Devices" name="Lidar Devices">
+<area shape="rect" id="node1" href="$group__dev__impl__nws__yarp.html" title="These devices take implementations of existing interfaces and wrap them up to work across the YARP ne..." alt="" coords="561,5,735,45"/>
+<area shape="rect" id="node2" href="$group__dev__impl__fake.html" title="Devices using for testing purposes." alt="" coords="580,70,716,95"/>
+<area shape="rect" id="node3" href="$group__dev__impl.html" title="Concrete device drivers that implement sets of interfaces." alt="" coords="5,70,188,95"/>
+<area shape="rect" id="node5" title="Lidars and similar range measurement devices." alt="" coords="237,70,348,95"/>
+<area shape="rect" id="node4" href="$group__dev__impl__nws__ros.html" title="These devices take implementations of existing interfaces and wrap them up to work across the ROS net..." alt="" coords="565,120,731,160"/>
+</map>

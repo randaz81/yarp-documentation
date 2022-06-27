@@ -1,0 +1,52 @@
+<map id="src/devices/portaudioPlayer/PortAudioPlayerDeviceDriver.h" name="src/devices/portaudioPlayer/PortAudioPlayerDeviceDriver.h">
+<area shape="rect" id="node1" title=" " alt="" coords="2495,5,2722,47"/>
+<area shape="rect" id="node2" href="$ManagedBytes_8h.html" title=" " alt="" coords="1161,95,1344,121"/>
+<area shape="rect" id="node23" href="$Thread_8h.html" title=" " alt="" coords="2275,333,2406,360"/>
+<area shape="rect" id="node24" href="$DeviceDriver_8h.html" title=" " alt="" coords="1382,95,1560,121"/>
+<area shape="rect" id="node29" title=" " alt="" coords="2951,647,3015,673"/>
+<area shape="rect" id="node37" href="$AudioPlayerDeviceBase_8h.html" title=" " alt="" coords="2704,244,2910,285"/>
+<area shape="rect" id="node43" href="$CircularAudioBuffer_8h.html" title=" " alt="" coords="2498,333,2718,360"/>
+<area shape="rect" id="node50" title=" " alt="" coords="3540,95,3636,121"/>
+<area shape="rect" id="node3" href="$Bytes_8h.html" title=" " alt="" coords="31,490,154,517"/>
+<area shape="rect" id="node7" href="$Network_8h.html" title=" " alt="" coords="1160,169,1302,196"/>
+<area shape="rect" id="node13" href="$Portable_8h.html" title=" " alt="" coords="1720,490,1860,517"/>
+<area shape="rect" id="node4" href="$yarp_2src_2libYARP__os_2src_2yarp_2os_2api_8h.html" title=" " alt="" coords="1831,647,1938,673"/>
+<area shape="rect" id="node6" title=" " alt="" coords="569,572,640,599"/>
+<area shape="rect" id="node5" href="$yarp-git-master-build_2src_2libYARP__conf_2src_2yarp_2conf_2api_8h.html" title=" " alt="" coords="1825,721,1944,748"/>
+<area shape="rect" id="node8" href="$Contact_8h.html" title=" " alt="" coords="1036,490,1172,517"/>
+<area shape="rect" id="node10" href="$ContactStyle_8h.html" title=" " alt="" coords="178,490,348,517"/>
+<area shape="rect" id="node11" href="$NameStore_8h.html" title=" " alt="" coords="1152,251,1310,278"/>
+<area shape="rect" id="node16" href="$Property_8h.html" title=" " alt="" coords="1244,408,1383,435"/>
+<area shape="rect" id="node18" href="$Value_8h.html" title=" " alt="" coords="723,408,846,435"/>
+<area shape="rect" id="node21" href="$QosStyle_8h.html" title=" " alt="" coords="275,408,419,435"/>
+<area shape="rect" id="node22" href="$libYARP__os_2src_2yarp_2os_2Time_8h.html" title=" " alt="" coords="1450,490,1569,517"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1144,572,1203,599"/>
+<area shape="rect" id="node12" href="$Bottle_8h.html" title=" " alt="" coords="1194,333,1319,360"/>
+<area shape="rect" id="node17" href="$Searchable_8h.html" title=" " alt="" coords="525,490,684,517"/>
+<area shape="rect" id="node14" href="$PortReader_8h.html" title=" " alt="" coords="1978,572,2135,599"/>
+<area shape="rect" id="node15" href="$PortWriter_8h.html" title=" " alt="" coords="2160,572,2310,599"/>
+<area shape="rect" id="node19" href="$numeric_8h.html" title=" " alt="" coords="708,490,860,517"/>
+<area shape="rect" id="node20" title=" " alt="" coords="2219,647,2286,673"/>
+<area shape="rect" id="node25" href="$ConnectionReader_8h.html" title=" " alt="" coords="444,408,648,435"/>
+<area shape="rect" id="node26" href="$ConnectionWriter_8h.html" title=" " alt="" coords="870,408,1069,435"/>
+<area shape="rect" id="node27" href="$BufferedPort_8h.html" title=" " alt="" coords="2018,169,2185,196"/>
+<area shape="rect" id="node35" href="$IConfig_8h.html" title=" " alt="" coords="294,169,424,196"/>
+<area shape="rect" id="node36" href="$yarp_2src_2libYARP__dev_2src_2yarp_2dev_2api_8h.html" title=" " alt="" coords="3150,572,3264,599"/>
+<area shape="rect" id="node28" href="$Contactable_8h.html" title=" " alt="" coords="2156,408,2320,435"/>
+<area shape="rect" id="node30" href="$Port_8h.html" title=" " alt="" coords="1967,408,2079,435"/>
+<area shape="rect" id="node31" href="$PortReaderBuffer_8h.html" title=" " alt="" coords="2004,251,2200,278"/>
+<area shape="rect" id="node33" href="$PortWriterBuffer_8h.html" title=" " alt="" coords="1741,333,1932,360"/>
+<area shape="rect" id="node34" href="$BufferedPort-inl_8h.html" title=" " alt="" coords="2275,244,2430,285"/>
+<area shape="rect" id="node32" title=" " alt="" coords="3151,490,3212,517"/>
+<area shape="rect" id="node38" title=" " alt="" coords="2189,490,2252,517"/>
+<area shape="rect" id="node39" href="$IAudioRender_8h.html" title=" " alt="" coords="2844,333,3026,360"/>
+<area shape="rect" id="node40" href="$Sound_8h.html" title=" " alt="" coords="1812,408,1943,435"/>
+<area shape="rect" id="node41" href="$AudioBufferSize_8h.html" title=" " alt="" coords="2710,408,2909,435"/>
+<area shape="rect" id="node42" href="$audioBufferSizeData_8h.html" title=" " alt="" coords="2890,483,3076,524"/>
+<area shape="rect" id="node44" href="$Log_8h.html" title=" " alt="" coords="2655,572,2764,599"/>
+<area shape="rect" id="node47" href="$LogStream_8h.html" title=" " alt="" coords="2530,408,2686,435"/>
+<area shape="rect" id="node45" title=" " alt="" coords="2802,647,2866,673"/>
+<area shape="rect" id="node46" title=" " alt="" coords="2661,647,2758,673"/>
+<area shape="rect" id="node48" href="$libYARP__os_2src_2yarp_2os_2LogComponent_8h.html" title=" " alt="" coords="2530,490,2714,517"/>
+<area shape="rect" id="node49" href="$Os_8h.html" title=" " alt="" coords="1593,490,1696,517"/>
+</map>

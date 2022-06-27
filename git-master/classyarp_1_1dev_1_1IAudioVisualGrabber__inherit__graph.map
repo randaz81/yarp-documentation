@@ -1,0 +1,4 @@
+<map id="yarp::dev::IAudioVisualGrabber" name="yarp::dev::IAudioVisualGrabber">
+<area shape="rect" id="node1" title="Read a YARP&#45;format image and sound from a device." alt="" coords="5,5,228,32"/>
+<area shape="rect" id="node2" href="$classFfmpegGrabber.html" title="ffmpeg_grabber: An image frame grabber device using ffmpeg to capture images from AVI files." alt="" coords="55,80,179,107"/>
+</map>

@@ -1,0 +1,50 @@
+<map id="ControlBoardWrapper" name="ControlBoardWrapper">
+<area shape="rect" id="node1" title="controlboardwrapper2 deprecated: An updated version of the controlBoard network wrapper." alt="" coords="2720,244,2883,271"/>
+<area shape="rect" id="node2" href="$classyarp_1_1dev_1_1DeprecatedDeviceDriver.html" title="Interface implemented by deprecated device drivers." alt="" coords="5,155,216,196"/>
+<area shape="rect" id="node3" href="$classyarp_1_1dev_1_1DeviceDriver.html" title="Interface implemented by all device drivers." alt="" coords="23,80,198,107"/>
+<area shape="rect" id="node4" href="$classyarp_1_1os_1_1IConfig.html" title="An object that can be configured." alt="" coords="47,5,174,32"/>
+<area shape="rect" id="node5" href="$classyarp_1_1os_1_1PeriodicThread.html" title="An abstraction for a periodic thread." alt="" coords="240,162,419,189"/>
+<area shape="rect" id="node6" href="$classyarp_1_1dev_1_1IMultipleWrapper.html" title="Interface for an object that can wrap/attach to to another." alt="" coords="443,162,645,189"/>
+<area shape="rect" id="node7" href="$classControlBoardWrapperCommon.html" title=" " alt="" coords="2953,80,3175,107"/>
+<area shape="rect" id="node8" href="$classControlBoardWrapperPidControl.html" title=" " alt="" coords="669,162,899,189"/>
+<area shape="rect" id="node10" href="$classControlBoardWrapperPositionControl.html" title=" " alt="" coords="923,155,1138,196"/>
+<area shape="rect" id="node12" href="$classControlBoardWrapperPositionDirect.html" title=" " alt="" coords="1162,155,1377,196"/>
+<area shape="rect" id="node14" href="$classControlBoardWrapperVelocityControl.html" title=" " alt="" coords="1401,155,1615,196"/>
+<area shape="rect" id="node16" href="$classControlBoardWrapperEncodersTimed.html" title=" " alt="" coords="1640,155,1861,196"/>
+<area shape="rect" id="node19" href="$classControlBoardWrapperMotor.html" title=" " alt="" coords="1885,162,2085,189"/>
+<area shape="rect" id="node21" href="$classControlBoardWrapperMotorEncoders.html" title=" " alt="" coords="2109,155,2309,196"/>
+<area shape="rect" id="node23" href="$classControlBoardWrapperAmplifierControl.html" title=" " alt="" coords="2333,155,2555,196"/>
+<area shape="rect" id="node25" href="$classControlBoardWrapperControlLimits.html" title=" " alt="" coords="2579,155,2789,196"/>
+<area shape="rect" id="node27" href="$classControlBoardWrapperRemoteCalibrator.html" title=" " alt="" coords="2813,155,3027,196"/>
+<area shape="rect" id="node29" href="$classControlBoardWrapperControlCalibration.html" title=" " alt="" coords="3102,155,3311,196"/>
+<area shape="rect" id="node31" href="$classControlBoardWrapperTorqueControl.html" title=" " alt="" coords="3336,155,3541,196"/>
+<area shape="rect" id="node33" href="$classControlBoardWrapperImpedanceControl.html" title=" " alt="" coords="3565,155,3800,196"/>
+<area shape="rect" id="node35" href="$classControlBoardWrapperControlMode.html" title=" " alt="" coords="3824,162,4069,189"/>
+<area shape="rect" id="node37" href="$classControlBoardWrapperAxisInfo.html" title=" " alt="" coords="4094,162,4309,189"/>
+<area shape="rect" id="node39" href="$classControlBoardWrapperPreciselyTimed.html" title=" " alt="" coords="4333,155,4555,196"/>
+<area shape="rect" id="node41" href="$classControlBoardWrapperInteractionMode.html" title=" " alt="" coords="4579,162,4847,189"/>
+<area shape="rect" id="node43" href="$classControlBoardWrapperRemoteVariables.html" title=" " alt="" coords="4872,155,5085,196"/>
+<area shape="rect" id="node45" href="$classControlBoardWrapperPWMControl.html" title=" " alt="" coords="5109,162,5352,189"/>
+<area shape="rect" id="node47" href="$classControlBoardWrapperCurrentControl.html" title=" " alt="" coords="5376,155,5587,196"/>
+<area shape="rect" id="node9" href="$classyarp_1_1dev_1_1IPidControl.html" title="Interface for a generic control board device implementing a PID controller, with scaled arguments." alt="" coords="703,80,865,107"/>
+<area shape="rect" id="node11" href="$classyarp_1_1dev_1_1IPositionControl.html" title="Interface for a generic control board device implementing position control." alt="" coords="934,80,1127,107"/>
+<area shape="rect" id="node13" href="$classyarp_1_1dev_1_1IPositionDirect.html" title="Interface for a generic control board device implementing position control." alt="" coords="1177,80,1362,107"/>
+<area shape="rect" id="node15" href="$classyarp_1_1dev_1_1IVelocityControl.html" title="Interface for control boards implementing velocity control." alt="" coords="1411,80,1605,107"/>
+<area shape="rect" id="node17" href="$classyarp_1_1dev_1_1IEncodersTimed.html" title="Control board, extend encoder interface with timestamps." alt="" coords="1653,80,1848,107"/>
+<area shape="rect" id="node18" href="$classyarp_1_1dev_1_1IEncoders.html" title="Control board, encoder interface." alt="" coords="1674,5,1827,32"/>
+<area shape="rect" id="node20" href="$classyarp_1_1dev_1_1IMotor.html" title="Control board, encoder interface." alt="" coords="1918,80,2050,107"/>
+<area shape="rect" id="node22" href="$classyarp_1_1dev_1_1IMotorEncoders.html" title="Control board, encoder interface." alt="" coords="2074,80,2265,107"/>
+<area shape="rect" id="node24" href="$classyarp_1_1dev_1_1IAmplifierControl.html" title="Interface for control devices, amplifier commands." alt="" coords="2289,80,2489,107"/>
+<area shape="rect" id="node26" href="$classyarp_1_1dev_1_1IControlLimits.html" title="Interface for control devices, commands to get/set position and veloity limits." alt="" coords="2513,80,2695,107"/>
+<area shape="rect" id="node28" href="$classyarp_1_1dev_1_1IRemoteCalibrator.html" title="IRemoteCalibrator interface is meant to remotize the access of the calibration device in order to all..." alt="" coords="2719,80,2929,107"/>
+<area shape="rect" id="node30" href="$classyarp_1_1dev_1_1IControlCalibration.html" title="Interface for control devices, calibration commands." alt="" coords="3199,80,3411,107"/>
+<area shape="rect" id="node32" href="$classyarp_1_1dev_1_1ITorqueControl.html" title="Interface for control boards implementing torque control." alt="" coords="3436,80,3620,107"/>
+<area shape="rect" id="node34" href="$classyarp_1_1dev_1_1IImpedanceControl.html" title="Interface for control boards implementing impedance control." alt="" coords="3644,80,3857,107"/>
+<area shape="rect" id="node36" href="$classyarp_1_1dev_1_1IControlMode.html" title="Interface for setting control mode in control board." alt="" coords="3882,80,4059,107"/>
+<area shape="rect" id="node38" href="$classyarp_1_1dev_1_1IAxisInfo.html" title="Interface for getting information about specific axes, if available." alt="" coords="4128,80,4275,107"/>
+<area shape="rect" id="node40" href="$classyarp_1_1dev_1_1IPreciselyTimed.html" title=" " alt="" coords="4347,80,4541,107"/>
+<area shape="rect" id="node42" href="$classyarp_1_1dev_1_1IInteractionMode.html" title="Interface settings the way the robot interacts with the environment: basic interaction types are Stif..." alt="" coords="4613,80,4813,107"/>
+<area shape="rect" id="node44" href="$classyarp_1_1dev_1_1IRemoteVariables.html" title="IRemoteVariables interface." alt="" coords="4876,80,5081,107"/>
+<area shape="rect" id="node46" href="$classyarp_1_1dev_1_1IPWMControl.html" title="Interface for controlling an axis, by sending directly a PWM reference signal to a motor." alt="" coords="5143,80,5318,107"/>
+<area shape="rect" id="node48" href="$classyarp_1_1dev_1_1ICurrentControl.html" title="Interface for control boards implementing current control." alt="" coords="5387,80,5576,107"/>
+</map>
