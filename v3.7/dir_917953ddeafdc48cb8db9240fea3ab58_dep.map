@@ -1,0 +1,22 @@
+<map id="src/devices/map2D_nws_yarp" name="src/devices/map2D_nws_yarp">
+<area shape="rect" id="node1" href="dir_7b07bb41a9bdd8507f6b0cba3a952fee.html" title="IMap2DMsgs" alt="" coords="48,148,155,196"/>
+<area shape="rect" id="node3" href="dir_27efc40c83ff0e5e8a1a76851e2f7bbd.html" title="libYARP_dev" alt="" coords="106,244,209,292"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000118_000014.html" title="11" alt="" coords="133,217,150,231"/>
+<area shape="rect" id="node6" href="dir_6db82663f7ba9663e5d9d671ea5d994b.html" title="libYARP_os" alt="" coords="60,532,153,580"/>
+<area shape="rect" id="edge12-headlabel" href="dir_000118_000006.html" title="25" alt="" coords="102,505,119,520"/>
+<area shape="rect" id="node2" href="dir_917953ddeafdc48cb8db9240fea3ab58.html" title="map2D_nws_yarp" alt="" coords="48,52,187,100"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000138_000118.html" title="1" alt="" coords="112,124,121,139"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000138_000014.html" title="14" alt="" coords="168,221,185,235"/>
+<area shape="rect" id="node4" href="dir_3491d52813b39d1a411eb8c3b114622b.html" title="libYARP_math" alt="" coords="195,340,307,388"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000138_000018.html" title="1" alt="" coords="249,313,259,328"/>
+<area shape="rect" id="node5" href="dir_3bb4a535d08154fec1c9e85405d8f837.html" title="libYARP_sig" alt="" coords="199,436,297,484"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000138_000010.html" title="1" alt="" coords="295,423,304,437"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000138_000006.html" title="15" alt="" coords="71,505,88,520"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000014_000018.html" title="7" alt="" coords="216,314,226,328"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000014_000010.html" title="40" alt="" coords="205,410,223,424"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000014_000006.html" title="163" alt="" coords="110,508,135,523"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000018_000010.html" title="20" alt="" coords="249,411,266,425"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000018_000006.html" title="15" alt="" coords="129,514,146,528"/>
+<area shape="rect" id="edge13-headlabel" href="dir_000010_000006.html" title="76" alt="" coords="152,521,170,536"/>
+<area shape="rect" id="clust1" href="dir_abd80c029d214e783ff905e909ed9db6.html" title="devices" alt="" coords="37,16,197,207"/>
+</map>
