@@ -96,18 +96,17 @@ jobs:
 
           # Install doxygen-related tools
           sudo apt update
-          sudo apt install -qq -y graphviz plantuml texlive-latex-base
+          sudo apt install -y graphviz plantuml texlive-latex-base
 
           #maybe useless?
-          #sudo apt install -qq -ylibclang1-9 libclang-cpp9
+          #sudo apt install -y libclang1-9 libclang-cpp9
 
           # Install CMake
-          sudo apt-get install -qq -y apt-transport-https ca-certificates gnupg software-properties-common wget
-          sudo apt-get install -qq -y cmake
+          sudo apt-get install -y apt-transport-https ca-certificates gnupg software-properties-common wget
+          sudo apt-get install -y cmake
 
           # Install Robotology dependencies
           wget http://www.icub.org/ubuntu/pool/contrib/science/y/ycm-cmake-modules/ycm-cmake-modules_0.14.1~jammy_amd64.deb -O ycm-cmake-modules.deb
-          sudo dpkg --configure -a
           sudo dpkg -i ycm-cmake-modules.deb
           rm -f ycm-cmake-modules.deb
 
