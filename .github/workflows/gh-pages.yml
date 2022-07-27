@@ -96,6 +96,7 @@ jobs:
 
           # Install doxygen-related tools
           sudo apt update
+          sudo apt upgrade -y
           sudo apt install -y graphviz plantuml texlive-latex-base
 
           #maybe useless?
