@@ -48,9 +48,9 @@ jobs:
 
       - name: Clone YARP repository and select branches and tags
         run: |
-             wget http://www.icub.org/ubuntu/pool/contrib/science/y/ycm-cmake-modules/ycm-cmake-modules_0.14.1~jammy_amd64.deb -O ycm-cmake-modules.deb
-             sudo apt install -y ./ycm-cmake-modules.deb
-             
+          wget http://www.icub.org/ubuntu/pool/contrib/science/y/ycm-cmake-modules/ycm-cmake-modules_0.14.1~jammy_amd64.deb -O ycm-cmake-modules.deb
+          sudo apt install -y ./ycm-cmake-modules.deb
+          
           # Clone YARP repository
           git clone https://github.com/robotology/yarp.git ${YARP_CHECKOUT_DIR}
 
